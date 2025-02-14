@@ -2,7 +2,7 @@
 
 ### `Software Craftsman (Full Stack Developer / AI Enthusiast / Content Creator)`
 
-<img width="208px" align="left" src="https://chuckconway.com/images/chuck-studio.png" style="width:208px;" />
+<img width="208px" align="left" src="https://chuckconway.com/images/chuck-studio.png" style="width:208px;border-radius: 0.25rem;" />
 
 I’m a full-stack developer, AI enthusiast, and content creator passionate about building beautiful software. My hope is my software improves others' lives.
 
