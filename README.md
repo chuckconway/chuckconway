@@ -6,7 +6,7 @@
 
 I’m a full-stack developer, AI enthusiast, and content creator passionate about building beautiful software. My hope is my software improves others' lives.
 
-For nearly 30 years, I've developed my skills in Python, C#, Generative AI, .Net, software design, and CI/CD. I believe in craftsmanship, thoughtful architecture, and efficient processes.
+For nearly 30 years, I've developed my skills in Python, C#, Generative AI, .Net, software design, software architecture, and CI/CD. I believe in craftsmanship, thoughtful architecture, and efficient processes.
 
 When I’m not coding, I enjoy life in Folsom, CA, with my wife Erin, our daughter, and our furry feline friend.
 
