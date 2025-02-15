@@ -46,7 +46,7 @@ If you are curious about my work, I share my insights and lessons learned via my
 
 ---
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning...
 I'm currently learning Agentic AI. Anyone who hasn't spent time learning Agents and AI needs to get their butt in gear! It's an amazing space and the future of software engineering. If you don't start soon, AI might very well replace you!
 
 ### 📫 How to Contact Me
