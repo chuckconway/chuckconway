@@ -4,7 +4,7 @@
 
 <img width="208px" align="left" src="https://chuckconway.com/images/chuck-studio.png" style="width:208px;" />
 
-I’m a full-stack developer, AI enthusiast, and content creator passionate about building beautiful software. My hope is my software improves others' lives.
+I'm a full-stack developer, AI enthusiast, and content creator passionate about building beautiful software that helps humankind.
 
 For nearly 30 years, I've developed my talents in Python, C#, Generative AI, .Net, software design, software architecture, and CI/CD. I believe in craftsmanship, thoughtful architecture, and efficient processes.
 
