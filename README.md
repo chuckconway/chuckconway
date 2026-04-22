@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Chuck Conway
 
-### `Software Craftsman (Full Stack Developer / AI Enthusiast / Content Creator)`
+### `AI Craftsman (AI Engineer / Content Creator)`
 
 <img width="208px" align="left" src="https://chuckconway.com/images/chuck-studio.png" style="width:208px;" />
 
-I'm a full-stack developer, AI enthusiast, and content creator passionate about building beautiful software that helps humankind.
+I'm an AI engineer and content creator passionate about building beautiful software that helps humankind.
 
-For nearly 30 years, I've developed my talents in Python, C#, Generative AI, .Net, software design, software architecture, and CI/CD. I believe in craftsmanship, thoughtful architecture, and efficient processes.
+For nearly three decades, I've practiced my craft across Python, TypeScript, C#, and .NET — building reliable, production-grade software and LLM-powered agents. I believe in craftsmanship, thoughtful architecture, and efficient processes.
 
-When I’m not coding, I enjoy life in Folsom, CA, with my wife Erin, our daughter, and our furry feline friend.
+Most of my current work lives at **[Conway Works](https://works.chuckconway.com)** — my personal engineering lab where I design, build, and operate production AI systems on self-hosted infrastructure. Projects there include Conway (a personal AI OS), the AI Content Pipeline, the [Agent Engineering Playbook](https://github.com/chuckconway/agent-engineering-playbook), and the [AI Agent Blueprint](https://github.com/chuckconway/ai-agent-blueprint).
 
-If you are curious about my work, I share my insights and lessons learned via my [blog](https://chuckconway.com) and [YouTube](https://www.youtube.com/@charlesconway?sub_confirmation=1).
+When I'm not coding, I enjoy life in Folsom, CA, with my wife Erin, our daughter, and our furry feline friend.
+
+If you're curious about my work, I share my insights and lessons learned via my [blog](https://chuckconway.com) and [YouTube](https://www.youtube.com/@charlesconway?sub_confirmation=1).
 
 <p align="left">
   <a href="https://www.youtube.com/@charlesconway?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
